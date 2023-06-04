@@ -38,6 +38,7 @@ h1 {
 
 .top > p {
     margin: 1rem;
+    padding: 0 1rem;
 }
 
 .top > button {
